@@ -1,0 +1,17 @@
+{
+  "users": {
+    "shazzad": {
+      "key": "ABCDEF-123456-SECRET",
+      "valid_until": "2026-12-31"
+    },
+    "demo": {
+      "key": "DEMO-111111-KEY",
+      "valid_until": "2025-02-01"
+    }
+  },
+  "blocked_keys": [
+    "BAD-KEY-9999",
+    "STOLEN-123"
+  ],
+  "app_version": "1.0.0"
+}
