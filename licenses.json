@@ -4,6 +4,11 @@
       "key": "ABCDEF-123456-SECRET",
       "valid_until": "2026-12-31"
     },
+    "users": {
+    "7day": {
+      "key": "free",
+      "valid_until": "2026-12-31"
+    },
     "demo": {
       "key": "DEMO-111111-KEY",
       "valid_until": "2025-02-01"
