@@ -15,7 +15,7 @@
   },
   "blocked_keys": [
     "BAD-KEY-9999",
-    "STOLEN-123"
+    "Free",
   ],
   "app_version": "1.0.0"
 }
