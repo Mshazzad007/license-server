@@ -13,9 +13,9 @@
       "valid_until": "2025-02-01"
     }
   },
-  "blocked_keys": {
+  "blocked_keys": [
     "BAD-KEY-9999",
-    "Nothing",
-  },
+    "Nothing"
+  ],
   "app_version": "1.0.0"
 }
